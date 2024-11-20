@@ -1,6 +1,6 @@
 const config = {
 	anroll: {
-		buildId: "cNZ4fiGunbZj6nyNdpeJ_",
+		buildId: "qcqve7xxSUrYDcNBeebP_",
 		cdn: "cdn-zenitsu-2-gamabunta.b-cdn.net"
 	}
 }
